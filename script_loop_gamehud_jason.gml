@@ -1,0 +1,3 @@
+script_execute(script_hud_score_jason);
+script_execute(script_hud_health_jason);
+script_execute(script_hud_text_jason);
